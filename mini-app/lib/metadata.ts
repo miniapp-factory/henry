@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Example Mini App";
+export const description = "An example mini app built with Next.js and Shadcn components.";
 export const url = process.env.NEXT_PUBLIC_URL;
